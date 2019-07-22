@@ -247,7 +247,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 1
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -290,7 +290,7 @@ GameObject:
   - component: {fileID: 1638926901}
   - component: {fileID: 1638926902}
   m_Layer: 0
-  m_Name: New Sprite
+  m_Name: Mouth
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -308,7 +308,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb16aba89d64864448e0d7a09b736644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _rhubarbSpriteSet: {fileID: 11400000, guid: 7ab33e9d4d18e8e478bb59d9a2b5e852, type: 2}
+  _rhubarbSpriteSet: {fileID: 11400000, guid: 150136755ebc24712aa96ab70503be5a, type: 2}
 --- !u!82 &1638926902
 AudioSource:
   m_ObjectHideFlags: 0
@@ -442,7 +442,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a7ecb1289662d0241985a2c54a3b4e9f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4fea31ac35d644636a523bd13372c7fa, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
